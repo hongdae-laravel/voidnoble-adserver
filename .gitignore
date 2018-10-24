@@ -12,3 +12,7 @@ npm-debug.log
 yarn-error.log
 .env
 package-lock.json
+/public/js
+/public/css
+/public/build
+/public/mix-manifest.json
