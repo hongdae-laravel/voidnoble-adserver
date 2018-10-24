@@ -1,6 +1,6 @@
 
 // Fonts
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+@import url("https://fonts.googleapis.com/css?family=Nanum+Gothic:300,400,600");
 
 // Variables
 @import "variables";
@@ -11,4 +11,16 @@
 .navbar-laravel {
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.list-group-item>.badge {
+  float: right;
+}
+
+.type-item {
+  display: none;
+}
+
+.file-preview-image {
+  height: 80px;
 }
